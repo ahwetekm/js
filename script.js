@@ -1,1 +1,1 @@
-alert("Merhaba Dünya")
+alert("Hello, world!")
